@@ -1,2 +1,2 @@
 # Cybersecurity-SOAR-EDR
-[img]https://i.imgur.com/X8F9cQj.png[/img]
+<img src="https://i.imgur.com/X8F9cQj.png" width="80%"
